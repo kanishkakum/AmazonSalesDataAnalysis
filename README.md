@@ -6,7 +6,7 @@ enterprise.
 Project Highlights:-
 
 Project Name :- Amazon sales Data Analysis.
-Problem Objective:- The objective of project is to analysis the sales trend - Year wise, month wise and yearly_month wise.
+Problem Objective:- The objective of project is to analyze the sales trend - Year wise, month wise and yearly_month wise.
 
 Steps to approach:-
 
