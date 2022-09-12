@@ -6,7 +6,7 @@ enterprise.
 Project Highlights:-
 
 Project Name :- Amazon sales Data Analysis.
-Problem Objective:- The objective of project is to analysis the historic data of investment and to find the equilibrium investment. The dataset contains sectorial and financial year-wise for 17 years.
+Problem Objective:- The objective of project is to analysis the sales trend - Year wise, month wise and yearly_month wise.
 
 Steps to approach:-
 
